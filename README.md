@@ -26,6 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-dy-dz&show_icons=true&locale=en&layout=compact" alt="dx-dy-dz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&locale=en" alt="dx-dy-dz" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&locale=en" alt="dx-dy-dz" /></p> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dx-dy-dz&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&border=DD0877&currStreakNum=DD2380&fire=DDAC0B&currStreakLabel=DD0D95)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx-dy-dz&" alt="dx-dy-dz" /></p>
