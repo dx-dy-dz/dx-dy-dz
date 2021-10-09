@@ -26,8 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-dy-dz&show_icons=true&locale=en&layout=compact" alt="dx-dy-dz" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&locale=en" alt="dx-dy-dz" /></p>
- -->
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&locale=en" alt="dx-dy-dz" /></p> -->
+ 
  [![Divya Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-dy-dz)](https://github.com/dx-dy-dz/github-readme-stats)
 
  
