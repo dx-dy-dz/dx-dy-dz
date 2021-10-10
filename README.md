@@ -28,7 +28,7 @@
 
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&locale=en" alt="dx-dy-dz" /></p> -->
  <!--  [![Divya Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-dy-dz)](https://github.com/dx-dy-dz/github-readme-stats) -->
-![Divya Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&theme=radical)
+![Divya Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=dx-dy-dz&show_icons=true&theme=radical&count_private=true)
 
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dx-dy-dz&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=DD0877&currStreakNum=DD2380&fire=DDAC0B&currStreakLabel=DD0D95&ring=DDB713)](https://git.io/streak-stats)
