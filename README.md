@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dasdivya2000@gmail.com**
 
-- ⚡ Fun fact **I love listening to music  **
+- ⚡ Fun fact **I love listening to **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
