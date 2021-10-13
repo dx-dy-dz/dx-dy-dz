@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dasdivya2000@gmail.com**
 
-- ⚡ Fun fact **is that there is no fun fact!!**
+- ⚡ Fun fact **is that there is no fun fact!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
