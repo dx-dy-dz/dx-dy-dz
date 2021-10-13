@@ -37,6 +37,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx-dy-dz&" alt="dx-dy-dz" /></p> -->  
 
 <!--  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dx-dy-dz&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
-  </a>
- -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=dx-dy-dz&bg_color=000000&color=ed2198&line=11b6ed&point=ed2198&area=true&hide_border=true"/>
+  </a> -->
+
