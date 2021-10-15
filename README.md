@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Frontend development**  
 
 - 📫 How to reach me **dasdivya2000@gmail.com**
 
