@@ -36,6 +36,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx-dy-dz&" alt="dx-dy-dz" /></p> -->  
 
  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dx-dy-dz&bg_color=000000&color=ed2198&line=75faff&point=ed2198&area=true&hide_border=true"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=dx-dy-dz&bg_color=000000&color=ed2198&line=5aedf2&point=ed2198&area=true&hide_border=true"/>
   </a>  
 
