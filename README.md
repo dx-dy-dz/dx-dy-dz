@@ -32,7 +32,7 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dx-dy-dz&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=DD0877&currStreakNum=DD2380&fire=DDAC0B&currStreakLabel=DD0D95&ring=DDB713)](https://git.io/streak-stats)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx-dy-dz&" -->  
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? -->  
 
  <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=dx-dy-dz&bg_color=000000&color=ed2198&line=5aedf2&point=ed2198&area=true&hide_border=true"/>
