@@ -3,7 +3,7 @@
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dx-dy-dz&label=Profile%20views&color=0e75b6&style=flat" alt="dx-dy-dz" /> </p>    
 
-- 🌱 I’m currently learning **React.js**
+<!-- - 🌱 I’m currently learning **React.js** -->
 
 - 👯 I’m looking to collaborate on **Webdev projects**
 
