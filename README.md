@@ -22,7 +22,7 @@
 <a href="https://instagram.com/o_n_e_of_a_k_i_n_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_n_e_of_a_k_i_n_d" height="30" width="40" /></a>
 
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx-dy-dz&show_icons=true&locale=en&layout=compact&theme=radical" alt="dx-dy-dz" /></p>
