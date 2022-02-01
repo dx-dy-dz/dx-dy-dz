@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>  
+ 
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dx-dy-dz&label=Profile%20views&color=0e75b6&style=flat" alt="dx-dy-dz" /> </p>    
-
-<!-- - 🌱 I’m currently learning **React.js** -->
-
-- 👯 I’m looking to collaborate on **Webdev projects**
-
-<!-- - 🤝 I’m looking for help with **Backend development** -->
-
-- 💬 Ask me about **Frontend development**  
 
 - 📫 How to reach me **dasdivya2000@gmail.com**
 
